@@ -1,7 +1,5 @@
 //Ejemplo del codigo
 
-//
-//
-//Prueba de que sirve
+//Probando... 
 
 //Fin del codigo
